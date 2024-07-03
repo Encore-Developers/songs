@@ -62,6 +62,8 @@ In order to publish a song, follow these steps:
 
 ## Resources for charting
 
+- [Encore REAPER Template](https://github.com/Encore-Developers/songs/raw/main/images/Encore%20Template.rpp)
+
 - [Required text events](https://github.com/Beat-YT/FNFestival-Events/tree/main?tab=readme-ov-file#events)
 
 - [Download REAPER](https://www.reaper.fm/download.php)
