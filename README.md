@@ -3,6 +3,10 @@ Songs for Encore
 
 ## Publishing your charts
 
+> [!WARNING]
+> No official songs! These will not be accepted.<br>
+> Encore does NOT endorse piracy.
+
 To publish a song, the chart must go under review and be validated.
 In order to publish a song, follow these steps:
 
@@ -53,3 +57,13 @@ In order to publish a song, follow these steps:
     Your chart will be approved after it is verified.
 
     When your chart is verified and the pull request is merged, you will be able to see it in [FNLookup](https://fnlookup.github.io/encore/), where it will be given an ID.
+
+## Resources for charting
+
+- [Required text events](https://github.com/Beat-YT/FNFestival-Events/tree/main?tab=readme-ov-file#events)
+
+- [Download REAPER](https://www.reaper.fm/download.php)
+
+- [Guide for charting in REAPER](https://docs.google.com/document/d/1b7KcHJ5uX-jcAjeRTStJRxcEvZ5ohYNOeVvezG03vwA/edit#heading=h.u8vd9w9b6n0y)
+
+- [FN Fest Preview ReaScript](https://github.com/NarrikSynthfox/FNFest_Preview)
