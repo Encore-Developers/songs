@@ -36,11 +36,13 @@ In order to publish a song, follow these steps:
 
     Now, drag your **zip** song to the page.
 
-    After your **zip** is done uploading, it will show up below the space to drag. If you'd like to add multiple charts at once, these will go under review as well.
+    After your **zip** is done uploading, it will show up below the space to drag.
 
     ![fileupload](images/fileupload.png)
 
     After, click on **Commit changes** to confirm the song upload. Make sure you are committing to the **main** branch.
+
+    *If you'd like to add multiple charts, you should create multiple branches and commit each chart to each branch, then create multiple pull requests, so this process can stay organized.*
 
 - Create the pull request
 
@@ -48,7 +50,7 @@ In order to publish a song, follow these steps:
 
     Under **Add a title**, specify your song name.
 
-    Under **Add a description**, specify some details about the song/chart.
+    Under **Add a description**, follow the instructions on the PR template.
 
     When you are done, click on **Create pull request**.
 
