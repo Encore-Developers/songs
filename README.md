@@ -64,10 +64,15 @@ In order to publish a song, follow these steps:
 
 - [Encore REAPER Template](https://github.com/Encore-Developers/songs/raw/main/images/Encore%20Template.zip)
 
-- [Required text events](https://github.com/Beat-YT/FNFestival-Events/tree/main?tab=readme-ov-file#events)
-
 - [Download REAPER](https://www.reaper.fm/download.php)
 
 - [Guide for charting in REAPER](https://docs.google.com/document/d/1b7KcHJ5uX-jcAjeRTStJRxcEvZ5ohYNOeVvezG03vwA/edit#heading=h.u8vd9w9b6n0y)
 
-- [FN Fest Preview ReaScript](https://github.com/NarrikSynthfox/FNFest_Preview)
+- [Preview ReaScript](https://github.com/NarrikSynthfox/FNFest_Preview)
+
+### `EVENTS` Track
+Used to identify parts of the song:
+
+- `[music_start]`: Defines when the song starts.
+- `[music_end]`: Defines when the song finishes.
+- `[end]`: Defines when the song ends and the score screen should appear.
