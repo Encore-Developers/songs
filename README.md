@@ -68,7 +68,7 @@ In order to publish a song, follow these steps:
 
 - [Guide for charting in REAPER](https://docs.google.com/document/d/1b7KcHJ5uX-jcAjeRTStJRxcEvZ5ohYNOeVvezG03vwA/edit#heading=h.u8vd9w9b6n0y)
 
-- [Preview ReaScript](https://github.com/NarrikSynthfox/EncorePreview)
+- [Preview ReaScript](https://github.com/NarrikSynthfox/EncorePreviewer)
 
 ### `EVENTS` Track
 Used to identify parts of the song:
