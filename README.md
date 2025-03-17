@@ -9,6 +9,8 @@ Songs for Encore
 
 **If your song is quite old, and you have updated it, <br> please update your `info.json` to the new format. <br> You can read about it here: [CHARTS.md](https://github.com/Encore-Developers/Encore/blob/main/CHARTS.md)**
 
+*.ini songs are aslo supported*
+
 To publish a song, the chart must go under review and be validated.
 In order to publish a song, follow these steps:
 
