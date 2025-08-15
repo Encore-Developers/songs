@@ -7,6 +7,11 @@ Songs for Encore
 > No official songs! These will not be accepted.<br>
 > Encore does NOT endorse piracy.
 
+> The charting resources and guide here are quite outdated (not that you can't use them, there are just more things available)<br>
+> We hope that by the time v0.2.0 is released, we'll have better charting documentation.<br>
+> Meanwhile, it is HIGHLY encouraged to ask in the Discord for any help or guides!
+
+
 **If your song is quite old, and you have updated it, <br> please update your `info.json` to the new format. <br> You can read about it here: [CHARTS.md](https://github.com/Encore-Developers/Encore/blob/main/CHARTS.md)**
 
 *.ini songs are also supported*
