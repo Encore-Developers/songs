@@ -63,9 +63,3 @@ In order to publish a song, follow these steps:
 - Wait for approval
 
     Your chart will be approved after it is verified. If there are any issues, the reviewers will comment on your PR about them.
-
-    When your chart is verified and the pull request is merged, you will be able to see it in [FNLookup](https://fnlookup.github.io/encore/), where it will be given an ID.
-
-- `[music_start]`: Defines when the song starts.
-- `[music_end]`: Defines when the song finishes.
-- `[end]`: Defines when the song ends and the score screen should appear.
