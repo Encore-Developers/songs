@@ -11,9 +11,7 @@ Songs for Encore
 > We'll have probably better charting documentation soon.<br>
 > Meanwhile, it is HIGHLY encouraged to ask in the Discord for any help or guides!
 
-**If your song is quite old, and you have updated it, <br> please update your `info.json` to the new format. <br> You can read about it here: [CHARTS.md](https://github.com/Encore-Developers/Encore/blob/main/CHARTS.md)**
-
-*.ini songs are also supported*
+*.json songs are no longer supported*
 
 To publish a song, the chart must go under review and be validated.
 In order to publish a song, follow these steps:
@@ -26,7 +24,7 @@ In order to publish a song, follow these steps:
 
 - Archive your song
     
-    Package the `info.json`, stems, and album art into a folder. After, create a ***zip*** archive of the folder.
+    Package the `song.ini`, stems, and album art into a folder. After, create a ***zip*** archive of the folder.
 
     The limit for uploading files is **100 MB**, as set by GitHub. However, we recommend your zip to be under **20 MB**.
 
@@ -67,19 +65,6 @@ In order to publish a song, follow these steps:
     Your chart will be approved after it is verified. If there are any issues, the reviewers will comment on your PR about them.
 
     When your chart is verified and the pull request is merged, you will be able to see it in [FNLookup](https://fnlookup.github.io/encore/), where it will be given an ID.
-
-## Resources for charting
-
-- [Encore REAPER Template](https://github.com/Encore-Developers/songs/raw/main/images/Encore%20Template.zip)
-
-- [Download REAPER](https://www.reaper.fm/download.php)
-
-- [Guide for charting in REAPER](https://docs.google.com/document/d/1b7KcHJ5uX-jcAjeRTStJRxcEvZ5ohYNOeVvezG03vwA/edit#heading=h.u8vd9w9b6n0y)
-
-- [Preview ReaScript](https://github.com/NarrikSynthfox/EncorePreviewer)
-
-### `EVENTS` Track
-Used to identify parts of the song:
 
 - `[music_start]`: Defines when the song starts.
 - `[music_end]`: Defines when the song finishes.
